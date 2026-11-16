@@ -37,7 +37,7 @@ Me interesso por **desenvolvimento de aplicações**, **Full Stack**, **UI/UX**,
       </a>
     </td>
     <td width="72%" valign="middle">
-      <h3>⚛️ <a href="https://github.com/ShardGem/Entrela">Entrela</a></h3>
+      <h3><a href="https://github.com/ShardGem/Entrela">Entrela</a></h3>
       <p><strong>Uma maneira visual de explorar sistemas quânticos.</strong></p>
       <p>Aplicação desktop para construir circuitos, simular estados quânticos, visualizar qubits na esfera de Bloch e analisar efeitos de diferentes modelos de ruído.</p>
       <p>🔬 Circuitos &nbsp;·&nbsp; 🌐 Esfera de Bloch &nbsp;·&nbsp; 📈 Experimentos</p>
@@ -57,7 +57,7 @@ Me interesso por **desenvolvimento de aplicações**, **Full Stack**, **UI/UX**,
       </a>
     </td>
     <td width="72%" valign="middle">
-      <h3>🕸️ <a href="https://github.com/ShardGem/Grafla">Grafla</a></h3>
+      <h3><a href="https://github.com/ShardGem/Grafla">Grafla</a></h3>
       <p><strong>Teoria dos grafos em uma experiência interativa.</strong></p>
       <p>Aplicação desktop para criar e editar grafos, explorar matrizes e acompanhar algoritmos de busca e caminhos passo a passo.</p>
       <p>🔗 Edição visual &nbsp;·&nbsp; 🧮 Matrizes &nbsp;·&nbsp; 🔍 Algoritmos</p>
