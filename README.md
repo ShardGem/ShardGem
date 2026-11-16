@@ -22,8 +22,6 @@
 
 </div>
 
----
-
 ## 🧑‍🚀 Sobre mim
 
 Olá! Sou estudante de **Ciência da Computação** e desenvolvedor interessado na construção de aplicações, interfaces intuitivas e ferramentas que tornam conceitos complexos mais acessíveis.
@@ -158,28 +156,6 @@ Tecnologias que utilizo ou que estão presentes nos meus projetos:
 | 📊 Ciência de Dados | Processamento e visualização de informações |
 | 🧠 Algoritmos | Grafos, estruturas de dados e otimização |
 
----
-
-## 📈 Estatísticas do GitHub
-
-<div align="center">
-
-<a href="https://github.com/ShardGem">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ShardGem&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-</a>
-
-<a href="https://github.com/ShardGem">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShardGem&layout=compact&theme=tokyonight&hide_border=true" />
-</a>
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=ShardGem&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 <div align="center">
 
 ### 🤝 Vamos trocar ideias?
@@ -191,9 +167,5 @@ Estou sempre aberto a conhecer projetos, compartilhar conhecimentos e conversar 
 <a href="https://www.linkedin.com/in/arthursilvam/">
   <img src="https://img.shields.io/badge/Entre_em_contato-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
-<br><br>
-
-*Desenvolvido com ☕ curiosidade e muitas linhas de código.*
 
 </div>
