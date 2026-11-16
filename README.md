@@ -1,110 +1,199 @@
-<h1 align="center">Árthur Silva Medeiros</h1>
 
-<p align="center">
-  Estudante de Ciência da Computação · Desenvolvedor
-</p>
+<div align="center">
 
-<p align="center">
-  Software, interfaces e ferramentas para explorar ideias.
-</p>
+# 👨‍💻 Árthur Silva Medeiros
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/arthursilvam/">
-    <img src="https://img.shields.io/badge/LinkedIn-Conversar-0A66C2?style=flat-square" alt="Meu perfil no LinkedIn" />
-  </a>
-  <a href="https://github.com/ShardGem?tab=repositories">
-    <img src="https://img.shields.io/badge/GitHub-Explorar_projetos-292929?style=flat-square&logo=github&logoColor=white" alt="Meus repositórios" />
-  </a>
-</p>
+### 🎓 Estudante de Ciência da Computação | Desenvolvedor
 
----
+*Transformando ideias em software, interfaces e experiências.*
 
-### Sobre mim
+<br>
 
-Sou estudante de Ciência da Computação e desenvolvo aplicações com interesse especial em interfaces e visualização de informações.
+<a href="https://www.linkedin.com/in/arthursilvam/">
+  <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/ShardGem?tab=repositories">
+  <img src="https://img.shields.io/badge/GitHub-Portfólio-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-Gosto de trabalhar em projetos nos quais consigo acompanhar tanto o funcionamento do software quanto a experiência de quem o utiliza. No **Entrela**, exploro simulação quântica; no **Grafla**, teoria dos grafos e algoritmos.
+<br><br>
 
-Também estudo desenvolvimento full stack, análise de dados, APIs, bancos de dados e acessibilidade.
+<img src="https://komarev.com/ghpvc/?username=ShardGem&style=flat-square&color=6C63FF&label=VISUALIZAÇÕES+DO+PERFIL" />
 
-### Projetos
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Entrela</h3>
-      <p><strong>Simulação de sistemas quânticos</strong></p>
-      <p>
-        Aplicação desktop para simular pequenos sistemas quânticos,
-        visualizar estados em esferas de Bloch e analisar efeitos do ruído.
-      </p>
-      <p>
-        Reúne editor de circuitos, métricas de análise e comparação de experimentos.
-        É o projeto associado ao meu Trabalho de Conclusão de Curso.
-      </p>
-      <p>
-        <code>Python</code> <code>PySide6</code>
-        <code>Qiskit</code> <code>Qiskit Aer</code>
-      </p>
-      <p>
-        <a href="https://github.com/ShardGem/Entrela"><strong>Conhecer o Entrela →</strong></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Grafla</h3>
-      <p><strong>Teoria dos grafos em uma interface visual</strong></p>
-      <p>
-        Editor desktop para construir grafos, trabalhar com matrizes
-        e acompanhar algoritmos por etapas.
-      </p>
-      <p>
-        Inclui estudos de caminhos, buscas e organização de redes,
-        com controles de layout, temas e exportação de arquivos.
-      </p>
-      <p>
-        <code>Python</code> <code>PyQt6</code>
-        <code>NetworkX</code> <code>PyInstaller</code>
-      </p>
-      <p>
-        <a href="https://github.com/ShardGem/Grafla"><strong>Conhecer o Grafla →</strong></a>
-        &nbsp;·&nbsp;
-        <a href="https://github.com/ShardGem/Grafla/releases">Downloads</a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-### O que estou estudando
-
-- **Desenvolvimento de software:** arquitetura, organização de código e testes.
-- **Full stack:** interfaces web, APIs e integração com bancos de dados.
-- **Interfaces:** usabilidade, acessibilidade e visualização de informações.
-- **Computação quântica:** circuitos, simulação e modelos de ruído.
-- **Análise de dados:** tratamento, exploração e comparação de resultados.
-- **Algoritmos e grafos:** estruturas de dados, caminhos e relações entre elementos.
-
-### Tecnologias presentes nos meus projetos
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PySide6-264D3C?style=flat-square" alt="PySide6" />
-  <img src="https://img.shields.io/badge/PyQt6-264D3C?style=flat-square" alt="PyQt6" />
-  <img src="https://img.shields.io/badge/Qiskit-6929C4?style=flat-square" alt="Qiskit" />
-  <img src="https://img.shields.io/badge/Qiskit_Aer-48346E?style=flat-square" alt="Qiskit Aer" />
-  <img src="https://img.shields.io/badge/NetworkX-DA8551?style=flat-square" alt="NetworkX" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/NumPy-4D77A5?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/SciPy-405C80?style=flat-square&logo=scipy&logoColor=white" alt="SciPy" />
-  <img src="https://img.shields.io/badge/Matplotlib-405C80?style=flat-square" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/pytest-525252?style=flat-square&logo=pytest&logoColor=white" alt="pytest" />
-  <img src="https://img.shields.io/badge/PyInstaller-525252?style=flat-square" alt="PyInstaller" />
-</p>
+</div>
 
 ---
 
-<p align="center">
-  Para conversar sobre meus projetos ou trocar ideias:
-  <a href="https://www.linkedin.com/in/arthursilvam/"><strong>LinkedIn ↗</strong></a>
-</p>
+## 🧑‍🚀 Sobre mim
+
+Olá! Sou estudante de **Ciência da Computação** e desenvolvedor interessado na construção de aplicações, interfaces intuitivas e ferramentas que tornam conceitos complexos mais acessíveis.
+
+Gosto de explorar diferentes áreas da computação, desde a arquitetura e o funcionamento interno de um software até a experiência visual e a interação com o usuário.
+
+Atualmente, meus principais interesses envolvem:
+
+- 🖥️ **Desenvolvimento de software** — arquitetura, aplicações desktop e boas práticas.
+- 🌐 **Desenvolvimento Full Stack** — interfaces web, APIs e integração de sistemas.
+- 🎨 **UI/UX Design** — usabilidade, acessibilidade e visualização de informações.
+- ⚛️ **Computação quântica** — circuitos, simulações e modelos de ruído.
+- 📊 **Ciência e análise de dados** — processamento, exploração e visualização.
+- 🧠 **Algoritmos e estruturas de dados** — grafos, caminhos e otimização.
+
+---
+
+## 🚀 Projetos em destaque
+
+<div align="center">
+
+### ⚛️ Entrela
+**Simulação e visualização de sistemas quânticos**
+
+</div>
+
+Uma aplicação desktop desenvolvida para explorar pequenos sistemas quânticos de maneira visual e interativa.
+
+O projeto permite construir circuitos, simular estados quânticos, visualizar estados na esfera de Bloch e investigar os efeitos de ruído sobre os resultados.
+
+**Principais funcionalidades:**
+- 🔬 Simulação de circuitos quânticos.
+- 🌐 Visualização de estados por esferas de Bloch.
+- 📈 Métricas e análise de resultados.
+- 🧪 Comparação de experimentos e modelos de ruído.
+- 🖥️ Interface gráfica para construção e exploração de circuitos.
+
+**Tecnologias utilizadas:**
+
+`Python` `PySide6` `Qiskit` `Qiskit Aer`
+
+<div align="center">
+
+<a href="https://github.com/ShardGem/Entrela">
+  <img src="https://img.shields.io/badge/🔗_Explorar_Projeto-6929C4?style=for-the-badge" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🕸️ Grafla
+**Teoria dos grafos em uma experiência visual**
+
+</div>
+
+Uma aplicação desktop voltada ao estudo e à exploração da teoria dos grafos por meio de uma interface gráfica interativa.
+
+Permite construir grafos, manipular matrizes, visualizar relações entre vértices e acompanhar a execução de algoritmos por etapas.
+
+**Principais funcionalidades:**
+- 🔗 Criação e edição visual de grafos.
+- 🧮 Manipulação e visualização de matrizes.
+- 🔍 Exploração de algoritmos de busca e caminhos.
+- 🎨 Personalização de layouts e temas.
+- 📁 Exportação de arquivos e distribuição da aplicação.
+
+**Tecnologias utilizadas:**
+
+`Python` `PyQt6` `NetworkX` `PyInstaller`
+
+<div align="center">
+
+<a href="https://github.com/ShardGem/Grafla">
+  <img src="https://img.shields.io/badge/🔗_Explorar_Projeto-DA8551?style=for-the-badge" />
+</a>
+<a href="https://github.com/ShardGem/Grafla/releases">
+  <img src="https://img.shields.io/badge/⬇️_Downloads-292929?style=for-the-badge&logo=github" />
+</a>
+
+</div>
+
+---
+
+## 🛠️ Tecnologias e ferramentas
+
+Tecnologias que utilizo ou que estão presentes nos meus projetos:
+
+### 💻 Linguagens e desenvolvimento
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github" />
+
+</div>
+
+### ⚙️ Frameworks e bibliotecas
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/PySide6-264D3C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/PyQt6-264D3C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/NetworkX-DA8551?style=for-the-badge" />
+
+</div>
+
+### 📊 Ciência de dados e testes
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/NumPy-4D77A5?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/SciPy-405C80?style=for-the-badge&logo=scipy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-405C80?style=for-the-badge" />
+<img src="https://img.shields.io/badge/pytest-525252?style=for-the-badge&logo=pytest&logoColor=white" />
+<img src="https://img.shields.io/badge/PyInstaller-525252?style=for-the-badge" />
+
+</div>
+
+---
+
+## 📚 Atualmente estudando
+
+| Área | Foco |
+|:--|:--|
+| 🌐 Full Stack | Desenvolvimento web, APIs e bancos de dados |
+| 🏗️ Engenharia de Software | Arquitetura, testes e organização de código |
+| 🎨 Interfaces | UI/UX, acessibilidade e experiência do usuário |
+| ⚛️ Computação Quântica | Circuitos, simulação e modelos de ruído |
+| 📊 Ciência de Dados | Processamento e visualização de informações |
+| 🧠 Algoritmos | Grafos, estruturas de dados e otimização |
+
+---
+
+## 📈 Estatísticas do GitHub
+
+<div align="center">
+
+<a href="https://github.com/ShardGem">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ShardGem&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+</a>
+
+<a href="https://github.com/ShardGem">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShardGem&layout=compact&theme=tokyonight&hide_border=true" />
+</a>
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=ShardGem&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Vamos trocar ideias?
+
+Estou sempre aberto a conhecer projetos, compartilhar conhecimentos e conversar sobre tecnologia, desenvolvimento e computação.
+
+<br>
+
+<a href="https://www.linkedin.com/in/arthursilvam/">
+  <img src="https://img.shields.io/badge/Entre_em_contato-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br><br>
+
+*Desenvolvido com ☕ curiosidade e muitas linhas de código.*
+
+</div>
