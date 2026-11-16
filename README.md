@@ -116,4 +116,3 @@ Meus interesses passam por **desenvolvimento de aplicações**, **Full Stack**, 
 </a>
 
 </div>
-EADME_organizado.md…]()
