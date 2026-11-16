@@ -1,68 +1,119 @@
-<div align="center">
+# 👨‍💻 Árthur Silva Medeiros
 
-# Árthur Silva Medeiros
+**Desenvolvedor de Software · Estudante de Ciência da Computação**
 
-**Estudante de Ciência da Computação · Desenvolvedor de Software**
+*Transformando conceitos complexos em aplicações visuais, intuitivas e interativas.*
 
-Gosto de transformar ideias em aplicações, interfaces e experiências interativas.
-
-<a href="https://www.linkedin.com/in/arthursilvam/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://github.com/ShardGem?tab=repositories"><img src="https://img.shields.io/badge/Repositórios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositórios no GitHub"></a>
+<a href="https://www.linkedin.com/in/arthursilvam/">
+  <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/ShardGem?tab=repositories">
+  <img src="https://img.shields.io/badge/GitHub-Projetos-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Repositórios no GitHub" />
+</a>
 
 </div>
 
-## Sobre mim
+---
 
-Sou estudante de **Ciência da Computação** e me interesso por criar ferramentas que tornem conceitos complexos mais acessíveis. Gosto de explorar tanto a **arquitetura e a lógica** por trás do software quanto a **experiência de quem o utiliza**.
+## ✨ Sobre mim
 
-Atualmente, meus interesses incluem desenvolvimento de software, **UI/UX**, algoritmos, visualização de dados e computação quântica.
+Sou estudante de **Ciência da Computação** e desenvolvedor interessado em criar ferramentas que aproximem **tecnologia, design e aprendizado**. Gosto de explorar tanto a lógica e a arquitetura de um software quanto a experiência de quem o utiliza.
 
-## Projetos em destaque
+Meus interesses passam por **desenvolvimento de aplicações**, **Full Stack**, **UI/UX**, **algoritmos**, **visualização de dados** e **computação quântica**.
+
+## 🚀 Projetos em destaque
 
 <table>
   <tr>
-    <td width="155" align="center">
+    <td width="155" align="center" valign="middle">
       <a href="https://github.com/ShardGem/Entrela">
-        <img src="assets/entrela.png" width="125" alt="Logo do Entrela">
+        <img src="assets/entrela.png" width="125" alt="Logo do Entrela" />
       </a>
     </td>
-    <td>
+    <td valign="middle">
       <h3><a href="https://github.com/ShardGem/Entrela">Entrela</a></h3>
-      <p>Simulação e visualização de sistemas quânticos em uma aplicação desktop interativa.</p>
-      <p><sub>Construção de circuitos · Esfera de Bloch · Modelos de ruído · Análise de resultados</sub></p>
+      <p><strong>Uma maneira visual de explorar sistemas quânticos.</strong></p>
+      <p>Aplicação desktop para construir circuitos, simular estados, visualizar qubits na esfera de Bloch e analisar efeitos de ruído.</p>
+      <p>🔬 Circuitos &nbsp;·&nbsp; 🌐 Esfera de Bloch &nbsp;·&nbsp; 📈 Experimentos</p>
       <p><code>Python</code> <code>PySide6</code> <code>Qiskit</code> <code>Qiskit Aer</code></p>
-      <a href="https://github.com/ShardGem/Entrela"><img src="https://img.shields.io/badge/Explorar_projeto-087E9A?style=flat-square&logo=github&logoColor=white" alt="Explorar o Entrela"></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="155" align="center">
-      <a href="https://github.com/ShardGem/Grafla">
-        <img src="assets/grafla.png" width="125" alt="Logo do Grafla">
+      <a href="https://github.com/ShardGem/Entrela">
+        <img src="https://img.shields.io/badge/Explorar_Entrela-087EA4?style=flat-square&logo=github&logoColor=white" alt="Ver repositório Entrela" />
       </a>
-    </td>
-    <td>
-      <h3><a href="https://github.com/ShardGem/Grafla">Grafla</a></h3>
-      <p>Exploração da teoria dos grafos por meio de uma interface visual e interativa.</p>
-      <p><sub>Edição de grafos · Matrizes · Algoritmos de busca e caminhos · Exportação</sub></p>
-      <p><code>Python</code> <code>PyQt6</code> <code>NetworkX</code> <code>PyInstaller</code></p>
-      <a href="https://github.com/ShardGem/Grafla"><img src="https://img.shields.io/badge/Explorar_projeto-DF7546?style=flat-square&logo=github&logoColor=white" alt="Explorar o Grafla"></a>
-      <a href="https://github.com/ShardGem/Grafla/releases"><img src="https://img.shields.io/badge/Downloads-363636?style=flat-square&logo=github&logoColor=white" alt="Baixar o Grafla"></a>
     </td>
   </tr>
 </table>
 
-## Tecnologias e ferramentas
+<table>
+  <tr>
+    <td width="155" align="center" valign="middle">
+      <a href="https://github.com/ShardGem/Grafla">
+        <img src="assets/grafla.png" width="125" alt="Logo do Grafla" />
+      </a>
+    </td>
+    <td valign="middle">
+      <h3><a href="https://github.com/ShardGem/Grafla">Grafla</a></h3>
+      <p><strong>Teoria dos grafos em uma experiência interativa.</strong></p>
+      <p>Aplicação desktop para criar grafos, explorar matrizes e acompanhar algoritmos de busca e caminhos passo a passo.</p>
+      <p>🔗 Edição visual &nbsp;·&nbsp; 🧮 Matrizes &nbsp;·&nbsp; 🔍 Algoritmos</p>
+      <p><code>Python</code> <code>PyQt6</code> <code>NetworkX</code> <code>PyInstaller</code></p>
+      <a href="https://github.com/ShardGem/Grafla">
+        <img src="https://img.shields.io/badge/Explorar_Grafla-E4773E?style=flat-square&logo=github&logoColor=white" alt="Ver repositório Grafla" />
+      </a>
+      <a href="https://github.com/ShardGem/Grafla/releases">
+        <img src="https://img.shields.io/badge/Downloads-333333?style=flat-square&logo=github&logoColor=white" alt="Baixar Grafla" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-**Linguagens:** `Python` · `JavaScript` · `HTML` · `CSS` · `SQL`  
-**Bibliotecas e ferramentas:** `PySide6` · `PyQt6` · `Qiskit` · `NetworkX` · `NumPy` · `pytest` · `Git`
+
+## 🛠️ Tecnologias e ferramentas
+
+<div align="center">
+
+### 💻 Linguagens, dados e versionamento
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css,postgres,git,github&theme=dark" height="45" alt="Python, JavaScript, HTML, CSS, PostgreSQL, Git e GitHub" />
+
+<br>
+
+### 🖥️ Interfaces e aplicações
+
+<img src="https://img.shields.io/badge/PySide6-315E4E?style=flat-square" alt="PySide6" />
+<img src="https://img.shields.io/badge/PyQt6-315E4E?style=flat-square" alt="PyQt6" />
+<img src="https://img.shields.io/badge/PyInstaller-555555?style=flat-square" alt="PyInstaller" />
+
+<br>
+
+### ⚛️ Simulação e algoritmos
+
+<img src="https://img.shields.io/badge/Qiskit-6929C4?style=flat-square" alt="Qiskit" />
+<img src="https://img.shields.io/badge/Qiskit_Aer-6929C4?style=flat-square" alt="Qiskit Aer" />
+<img src="https://img.shields.io/badge/NetworkX-E4773E?style=flat-square" alt="NetworkX" />
+
+<br>
+
+### 📊 Dados e testes
+
+<img src="https://img.shields.io/badge/NumPy-4D77A5?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/SciPy-405C80?style=flat-square&logo=scipy&logoColor=white" alt="SciPy" />
+<img src="https://img.shields.io/badge/Matplotlib-405C80?style=flat-square" alt="Matplotlib" />
+<img src="https://img.shields.io/badge/pytest-555555?style=flat-square&logo=pytest&logoColor=white" alt="pytest" />
+
+</div>
+
 
 ---
 
 <div align="center">
 
-**Vamos trocar ideias?**  
-Estou aberto a conversar sobre tecnologia, projetos e desenvolvimento.
+### 🤝 Vamos trocar ideias?
 
-<a href="https://www.linkedin.com/in/arthursilvam/">Entre em contato pelo LinkedIn</a>
+*Gosto de conhecer projetos, compartilhar conhecimento e conversar sobre tecnologia.*
+
+<a href="https://www.linkedin.com/in/arthursilvam/">
+  <img src="https://img.shields.io/badge/Entre_em_contato-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Entrar em contato pelo LinkedIn" />
+</a>
 
 </div>
+EADME_organizado.md…]()
